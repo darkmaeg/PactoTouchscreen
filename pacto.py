@@ -348,7 +348,7 @@ icons_paths = [
 PLACEHOLDERS = [(0,3), (1,3), (2,2)]
 
 # -----------------------------
-# GPIO CONFIG (SINGLE SOURCE OF TRUTH)
+# GPIO CONFIG 
 # -----------------------------
 GPIO_CONFIG = {
     "player": {

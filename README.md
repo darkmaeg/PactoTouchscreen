@@ -143,12 +143,9 @@ ExecStartPre=/bin/sleep 2
 WantedBy=multi-user.target  
 ```````````````````````
 
-Remove some unused rpi components to speed up boot time.  
-```````````````````````
-systemctl list-unit-files --type=service
-```````````````````````
 Some files that can be disabled that are not needed and can speed up boot time:  
 ```````````````````````
+systemctl list-unit-files --type=service
 sudo systemctl disable bluetooth.service
 sudo systemctl disable hciuart.service
 sudo systemctl disable triggerhappy.service

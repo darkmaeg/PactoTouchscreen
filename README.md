@@ -89,7 +89,7 @@ sudo apt install -y git python3-pygame python3-gpiozero python3-evdev libsdl2-2.
 sudo apt install -y libegl1 libgles2 libgl1 libdrm2  
 ```````````````````````
 ```````````````````````
-git clone https://github.com/dinodox/PactoTouchscreen.git  
+git clone https://github.com/darkmaeg/PactoTouchscreen.git  
 ```````````````````````
 ```````````````````````
 cd PactoTouchscreen  

@@ -177,4 +177,4 @@ Pactotech handles controller input natively.
 
 📄 License  
 MIT License  
-Copyright (c) 2026 Dino Dox
+Copyright (c) 2026 Darkmaeg

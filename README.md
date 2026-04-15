@@ -166,7 +166,7 @@ dtoverlay=disable-bt
 `````````````````````
 
 📝 Notes  
-ESC on keyboard will end pacto.py.  
+ESC on keyboard connected to Rpi will end pacto.py.  
 90° Right Angle HDMI & USB Adapters recommended for cleaner look.  
 Blank button icon supplied for custom icons.  
 Most HDMI touchscreens should work.  
